@@ -33,4 +33,3 @@ Some of the questions explored in this notebook:
 
 ---
 
-## 📂 Project Structure
