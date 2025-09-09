@@ -30,6 +30,3 @@ Some of the questions explored in this notebook:
 - What role did **gender** and **age** play in survival rates?  
 - Did **passenger class (Pclass)** affect survival chances?  
 - Were there correlations between **family size, fare, and survival**?  
-
----
-
